@@ -1,7 +1,9 @@
 # module1.py
 
+print("This is in module1")
+
 def functA():
-    print('In function A')
+    print('In module1 using functA')
 
 def functB():
-    print('In function B')
+    print('In module1 using functB')
