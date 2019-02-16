@@ -7,3 +7,6 @@ def functA():
 
 def functB():
     print('In module1 using functB')
+
+def functC():
+    print('In module1 using functC')
