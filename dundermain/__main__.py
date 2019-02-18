@@ -1,5 +1,5 @@
 
 
-from .modulea import say_hello
+from dundermain.modulea import say_hello
 
 say_hello()
